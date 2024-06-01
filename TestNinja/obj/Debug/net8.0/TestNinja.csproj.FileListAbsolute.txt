@@ -1,0 +1,14 @@
+/Users/matsmith/source/repos/udemy/udemy_unitTests/TestNinja/bin/Debug/net8.0/TestNinja.dll.config
+/Users/matsmith/source/repos/udemy/udemy_unitTests/TestNinja/bin/Debug/net8.0/TestNinja.deps.json
+/Users/matsmith/source/repos/udemy/udemy_unitTests/TestNinja/bin/Debug/net8.0/TestNinja.runtimeconfig.json
+/Users/matsmith/source/repos/udemy/udemy_unitTests/TestNinja/bin/Debug/net8.0/TestNinja.dll
+/Users/matsmith/source/repos/udemy/udemy_unitTests/TestNinja/bin/Debug/net8.0/TestNinja.pdb
+/Users/matsmith/source/repos/udemy/udemy_unitTests/TestNinja/obj/Debug/net8.0/TestNinja.csproj.AssemblyReference.cache
+/Users/matsmith/source/repos/udemy/udemy_unitTests/TestNinja/obj/Debug/net8.0/TestNinja.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matsmith/source/repos/udemy/udemy_unitTests/TestNinja/obj/Debug/net8.0/TestNinja.csproj.CoreCompileInputs.cache
+/Users/matsmith/source/repos/udemy/udemy_unitTests/TestNinja/obj/Debug/net8.0/TestNinja.sourcelink.json
+/Users/matsmith/source/repos/udemy/udemy_unitTests/TestNinja/obj/Debug/net8.0/TestNinja.dll
+/Users/matsmith/source/repos/udemy/udemy_unitTests/TestNinja/obj/Debug/net8.0/refint/TestNinja.dll
+/Users/matsmith/source/repos/udemy/udemy_unitTests/TestNinja/obj/Debug/net8.0/TestNinja.pdb
+/Users/matsmith/source/repos/udemy/udemy_unitTests/TestNinja/obj/Debug/net8.0/TestNinja.genruntimeconfig.cache
+/Users/matsmith/source/repos/udemy/udemy_unitTests/TestNinja/obj/Debug/net8.0/ref/TestNinja.dll
